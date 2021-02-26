@@ -13,6 +13,9 @@
   "dependencies": {
     "@adiwajshing/baileys": "^3.4.1",
     "fluent-ffmpeg": "^2.1.2",
+    "node-fetch": "^2.6.1",
+    "node-gtts": "^2.0.2",
+    "node-run-cmd": "^1.0.1",
     "pm2": "4.5.5",
     "moment": "^2.29.1",
     "moment-timezone": "^0.5.33",
